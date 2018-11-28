@@ -64,7 +64,7 @@ Kliknutím do záhlaví grafu můžete libovolný příjem nebo výdaj vypnout. 
 
 Kalkulačka nepoužívá žádná data: vychází pouze ze zákonů, které stanoví pravidla pro účetnictví a výši sociálních dávek. Jejich složením do rovnic vznikl model, který poměrně detailně odráží realitu nízkopříjmových rodin.
 
-## Poprosil šéfa, aby mu snížil plat. Jinak by přišel o byt.
+## Poprosil šéfa, aby mu snížil plat. Jinak by přišel o byt
 
 „V rodině, se kterou jsem pracoval, měl muž dobře placenou práci,“ popisuje sociální pracovník Karel Novák situaci lidí v exekuci. „Spočítali si, že je potřeba domluvit se zaměstnavatelem snížení platu o pět tisíc, aby nepřišli o byt. Ve chvíli, kdy je exekuce na mzdu, je potřeba hodně dobře počítat, jestli se práce vyplatí.“
 

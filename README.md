@@ -1,4 +1,4 @@
-#PROJEKT NENÍ MOŽNÉ MINIFIKOVAT!!!
+# PROJEKT NENÍ MOŽNÉ MINIFIKOVAT!!!
 
 buildovat jen přes  
 ```bash
