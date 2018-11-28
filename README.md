@@ -1,3 +1,10 @@
+#PROJEKT NENÍ MOŽNÉ MINIFIKOVAT!!!
+
+buildovat jen přes  
+```bash
+npm run test
+```
+
 # Generátor obsahu pro snowfall šablonu iROZHLAS.cz - Node.js verze
 
 > Já jsem šablona, co generuje střeva pro snowfall články. V téhle vylepšené verzi pro Node.js taky automaticky minifikuju skripty a proháním je přes Babel.
