@@ -1,5 +1,5 @@
 title: "Čím víc si vyděláte, tím méně vám zbude. Kalkulačka sociálních dávek ukazuje absurditu exekucí"
-perex: "Vyplatí se pracovat? Záleží na počtu dětí, výši nájmu nebo místě, kde žijete. Pokud ale máte exekuci, odpověď je téměř vždy ne. Datoví novináři iRozhlasu s neziskovkou Nová škola vytvořili model, kde si můžete nasimulovat libovolnou domácnost."
+perex: "Vyplatí se pracovat? Záleží na počtu dětí, výši nájmu nebo místě, kde žijete. Pokud ale máte exekuci, odpověď je téměř vždy ne. Datoví novináři serveru iROZHLAS s neziskovkou Nová škola vytvořili model, kde si můžete nasimulovat libovolnou domácnost."
 published: "28. listopadu 2018"
 # autoři se zadávají až v redakčním systému
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/kalk_181128-005627_jab.png?itok=ctOM5F-0
@@ -11,13 +11,13 @@ options: []
 
 Žijete s partnerem a dvěma malými dětmi v nájemním bytě v Chebu. Oba jste bez práce, vy navíc v exekuci. Dostanete nabídku práce za 30 tisíc hrubého. Přijmete ji?
 
-Pokud ano, nepolepšíte si. V původní situaci sice nic nevyděláváte, ale máte nárok na dávky sociální péče a dávky v hmotné nouzi. Po zaplacení nájmu zbude na výdaje domácnosti 9 450 korun.
+Pokud ano, nepolepšíte si. V původní situaci sice nic nevyděláváte, ale máte nárok na dávky sociální péče a dávky v hmotné nouzi. Po zaplacení nájmu zbude na výdaje domácnosti 9450 korun.
 
-Jakmile začnete pracovat, sníží se dávky a zvýší exekuce. Při příjmu třicet tisíc hrubého rodině zůstane 9 452 korun, tedy o dvě koruny víc, než když neděláte nic.
+Jakmile začnete pracovat, sníží se dávky a zvýší exekuce. Při příjmu třicet tisíc hrubého rodině zůstane 9452 korun, tedy o dvě koruny víc, než když neděláte nic.
 
 Absurdní? Podle našeho modelu není tahle situace v Česku nijak neobvyklá. Naopak, u rodin v exekuci jde spíš o pravidlo: pracovat legálně se vyplatí málokomu.
 
-U zmíněné rodiny se vyplatí pracovat pouze za minimální mzdu. Každá tisícovka hrubého navíc znamená _snížení_ skutečných příjmů rodiny o několik desítek korun. Nečekaný moment nastává při zvýšení hrubé mzdy z 19 na 20 tisíc: zvýšení hrubé mzdy o tisíc korun znamená o 1 239 korun nižší finální příjem rodiny.
+U zmíněné rodiny se vyplatí pracovat pouze za minimální mzdu. Každá tisícovka hrubého navíc znamená _snížení_ skutečných příjmů rodiny o několik desítek korun. Nečekaný moment nastává při zvýšení hrubé mzdy z 19 na 20 tisíc: zvýšení hrubé mzdy o tisíc korun znamená o 1239 korun nižší finální příjem rodiny.
 
 V simulátoru sociálních dávek si můžete sami vyzkoušet, kdy má cenu pracovat. Kliknutí na tlačítko _Příjmy domácnosti × HPP_ ukáže graf příjmů: na ose x roste hrubý příjem, černá linka prozrazuje, kolik rodině skutečně zbude po zaplacení nájmu – takzvaný disponibilní příjem. Červená linka znázorňuje srážky ze mzdy v důsledku exekuce.
 
@@ -70,7 +70,7 @@ Kalkulačka nepoužívá žádná data: vychází pouze ze zákonů, které stan
 
 „Nejlepší strategie pro lidi, kteří jsou v exekuci, je mít nízký příjem a zároveň žádat o sociální dávky,“ potvrzuje Lucie Trlifajová, autorka studie Práce jako finanční a existenční riziko, která vychází právě z výpočtů modelu sociálních dávek.
 
-A nejde jen o exekuce. Výsledky modelu ukazují, že podobný problém se týká také řady rodin, které se dlouhodobě pohybují pod hranicí chudoby přesto, že pracují. I u nich se nárůst hrubé mzdy často na finálním příjmu rodiny téměř neprojeví.
+A nejde jen o exekuce. Výsledky modelu ukazují, že podobný problém se týká také řady rodin, které se dlouhodobě pohybují pod hranicí chudoby, přestože pracují. I u nich se nárůst hrubé mzdy často na finálním příjmu rodiny téměř neprojeví.
 
 „Efekty systému jsou navíc obtížně předvídatelné a většina domácností s nimi neumí kalkulovat,“ dodává Trlifajová. „Zvlášť problematický dopad má jednorázové navýšení příjmu například díky odměně, které může vést k výraznému snížení nebo úplné ztrátě nároku na dávky. Domácnost pak kvůli nečekanému příjmu často nedokáže pokrýt náklady na bydlení a propadá se hlouběji do spirály dluhů, případně je přímo ohrožena ztrátou bydlení.“
 

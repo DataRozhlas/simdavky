@@ -102,6 +102,7 @@
 	border-radius: 5px;
 	border-width: 1px;
 	padding: 5px;
+	min-width: 45px;
 }
 
 .taxbonus {
