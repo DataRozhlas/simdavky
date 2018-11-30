@@ -5,7 +5,7 @@ published: "28. listopadu 2018"
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/kalk_181128-005627_jab.png?itok=ctOM5F-0
 coverimg_note: ""
 styles: []
-libraries: [jquery, highcharts, "https://code.highcharts.com/modules/annotations.js"]
+libraries: [jquery]
 options: []
 ---
 
@@ -22,38 +22,7 @@ U zmíněné rodiny se vyplatí pracovat pouze za minimální mzdu. Každá tis�
 V simulátoru sociálních dávek si můžete sami vyzkoušet, kdy má cenu pracovat. Kliknutí na tlačítko _Příjmy domácnosti × HPP_ ukáže graf příjmů: na ose x roste hrubý příjem, černá linka prozrazuje, kolik rodině skutečně zbude po zaplacení nájmu – takzvaný disponibilní příjem. Červená linka znázorňuje srážky ze mzdy v důsledku exekuce.
 
 <wide>
-<div id="container">
-    <div id="title">Simulátor sociálních dávek</div>
-        <div id="upperwindow">
-            <div></div>
-        </div>
-    <div id="middlewindowgroup">
-        <div id="buttonwindowgroup">
-            <div id="upperbuttonwindow">
-                <h2 id="bw-title">Nastavení domácnosti</h2>
-                <button class="bw-button" type="button" onclick="vyplnSlozeniDomacnosti()">Složení domácnosti </button>
-                <button class="bw-button" type="button" onclick="vyplnPrijmyPrvnihoDospeleho()">Příjmy 1. dospělého</button>
-                <button class="bw-button" type="button" onclick="vyplnPrijmyDruhehoDospeleho()">Příjmy 2. dospělého</button>
-                <button class="bw-button" type="button" onclick="vyplnPrijmyTretihoDospeleho()">Příjmy 3. dospělého</button>
-                <button class="bw-button" type="button" onclick="vyplnExekuce()">Exekuce</button>
-                <button class="bw-button" type="button" onclick="vyplnNakladyNaBydleni()">Náklady na bydlení</button>
-                <button class="bw-button" type="button" onclick="vyplnZadostODavky()">Odmítnutí dávky</button>
-            </div>
-            <div id="lowerbuttonwindow">
-                <h2 id="bw-title">Výpočet</h2>
-                <button class="bw-button" type="button" onclick="dynamickyModelujRodinu(1)"><strong>Příjmy domácnosti × HPP </strong></button>
-                <button class="bw-button" type="button" onclick="dynamickyModelujRodinu(2)"><strong>Příjmy domácnosti × DPČ </strong></button>
-                <button class="bw-button" type="button" onclick="dynamickyModelujRodinu(3)"><strong>Příjmy domácnosti × DPP </strong></button>
-                <button class="bw-button" type="button" onclick="dynamickyModelujRodinu(4)"><strong>Příjmy domácnosti × nájem </strong></button>
-            </div>
-        </div>
-        <div id="mainwindow">
-            <div id="mw-text">
-                <h2 id="bw-title">Klikněte na tlačítka pro nastavení parametrů domácnosti (vlevo nahoře) nebo výpočet dávek (vlevo dole)</h2>
-            </div>
-        </div>
-    </div>
-</div>
+    <iframe id="kalk" src="https://www.pracevobci.cz/kalkulacka/" scrolling="yes"></iframe>
 </wide>
 
 Tlačítka vlevo nahoře umožňují poskládat si vlastní domácnost: nastavte počet členů domácnosti a věk dětí, zvolte příjmy dospělých, důchody, nemocenskou nebo rodičovskou. Rozhodněte, zda rodina bydlí ve vlastním bytě, nájmu nebo na ubytovně, a přidejte exekuce.
