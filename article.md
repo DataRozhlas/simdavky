@@ -19,7 +19,7 @@ Absurdní? Podle našeho modelu není tahle situace v Česku nijak neobvyklá. N
 
 U zmíněné rodiny se vyplatí pracovat pouze za minimální mzdu. Každá tisícovka hrubého navíc znamená _snížení_ skutečných příjmů rodiny o několik desítek korun. Nečekaný moment nastává při zvýšení hrubé mzdy z 19 na 20 tisíc: zvýšení hrubé mzdy o tisíc korun znamená o 1239 korun nižší finální příjem rodiny.
 
-V simulátoru sociálních dávek si můžete sami vyzkoušet, kdy má cenu pracovat. Kliknutí na tlačítko _Příjmy domácnosti × HPP_ ukáže graf příjmů: na ose x roste hrubý příjem, černá linka prozrazuje, kolik rodině skutečně zbude po zaplacení nájmu – takzvaný disponibilní příjem. Červená linka znázorňuje srážky ze mzdy v důsledku exekuce.
+V simulátoru sociálních dávek si můžete sami vyzkoušet, kdy má cenu pracovat. Kliknutí na tlačítko _Příjmy domácnosti × HPP_ ukáže graf příjmů: na ose x roste hrubý příjem, černá linka prozrazuje, kolik rodině skutečně zbude po zaplacení nájmu – takzvaný disponibilní příjem. Červená linka znázorňuje srážky ze mzdy v důsledku exekuce. 
 
 <wide>
     <iframe id="kalk" src="https://www.pracevobci.cz/kalkulacka/" scrolling="yes"></iframe>
