@@ -1,5 +1,5 @@
 title: "Čím víc si vyděláte, tím méně vám zbude. Kalkulačka sociálních dávek ukazuje absurditu exekucí"
-perex: "Vyplatí se pracovat? Záleží na počtu dětí, výši nájmu nebo místě, kde žijete. Pokud ale máte exekuci, odpověď je téměř vždy ne. Datoví novináři serveru iROZHLAS s neziskovkou Nová škola vytvořili model, kde si můžete nasimulovat libovolnou domácnost."
+perex: "Vyplatí se pracovat? Záleží na počtu dětí, výši nájmu nebo místě, kde žijete. Pokud ale máte exekuci, odpověď je téměř vždy ne. Centrum pro společenské otázky SPOT vytvořilo model, kde si můžete nasimulovat libovolnou domácnost."
 published: "28. listopadu 2018"
 # autoři se zadávají až v redakčním systému
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/kalk_181128-005627_jab.png?itok=ctOM5F-0
@@ -55,6 +55,8 @@ V simulátoru sociálních dávek si můžete sami vyzkoušet, kdy má cenu prac
     </div>
 </div>
 </wide>
+
+_Kalkulačka vznikla v rámci projektu Dobrá práce v obci, na kterém spolupracuje Centrum pro společenské otázky – SPOT, Nová škola, o.p.s a Multikulturní centrum. Její aktuální verzi najdete na webu [www.pracevobci.cz](www.pracevobci.cz), stejně jako studii [Práce jako finanční a existenční riziko](https://www.pracevobci.cz/studie)._
 
 Tlačítka vlevo nahoře umožňují poskládat si vlastní domácnost: nastavte počet členů domácnosti a věk dětí, zvolte příjmy dospělých, důchody, nemocenskou nebo rodičovskou. Rozhodněte, zda rodina bydlí ve vlastním bytě, nájmu nebo na ubytovně, a přidejte exekuce.
 
